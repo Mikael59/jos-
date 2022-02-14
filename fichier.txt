@@ -3,8 +3,10 @@ Les cétacés ou Cetacea (du grec ancien κῆτος / kêtos, « cétacé ») f
 <body> salut la team </body>
 <h2> test t'as vu </h2>
 <body> on est là pas le temps de niaiser </body>
+<h1> ouais, j'aime pas les conflits, j'ai mis n'importe quoi, ça a générer des conflits du coup il a pas voulu que j'envoie le fichuer>h1>
 <body> Ediath Piaf est-elle toujours en vie #complot #manipulationpolitique #fakenews </body>
 c'est bon pour le moral, c'est bon pour le moral, c'est bon bon
 jsp quoi écrire vrai j'ai déjà plus d'inspi
 
 C’est un panda qui en avait marre de la vie et un jour, il se panda…
+#fumertue #codersauve
