@@ -1,2 +1,5 @@
-hey, faut tout faire planter :D 
-ff,;mmmdlfjgjhfpnqjkgbqjgb j vqnvfn
+<h1> hey </h1>
+<body> salut la team </body>
+<h2> test t'as vu </h2>
+<body> on est là pas le temps de niaiser </body>
+<h1> ouais, j'aime pas les conflits, j'ai mis n'importe quoi, ça a générer des conflits du coup il a pas voulu que j'envoie le fichuer>h1>
